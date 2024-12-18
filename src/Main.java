@@ -2,8 +2,8 @@ import java.util.regex.Pattern;
 
 public class Main {
     public static void main(String[] args) {
-        // Test parollar
-        String[] testPasswords = {
+        
+            String[] testPasswords = {
                 "Abc123!@#",
                 "password",
                 "PASSWORD123",
